@@ -17,7 +17,7 @@ The data required for our exercises can be downloaded from the Human Pangenome R
 
 The HPRC dataset includes samples from diverse geographical origins. The selection of 47 samples was guided by various criteria: trio status in the Coriell biobank influencing the inclusion of Europeans, low cell line passage count affecting European samples, a focus on genetic diversity leading to a larger representation of Africans, and considerations of genetic drift impacting the selection of Asian and American samples. 
 
-For this tutorial, we will specifically focus on two continental populations, grouping individuals from Africa (AFR) and the Americas (AMR), to illustrate key concepts.
+**For this tutorial, we will specifically focus on two continental populations, grouping individuals from Africa (AFR) and the Americas (AMR), to illustrate key concepts.**
 
 <!---  https://www.nature.com/articles/s41586-023-05896-x#Fig1-->
 
@@ -50,4 +50,4 @@ For this tutorial, we will specifically focus on two continental populations, gr
 
 #### Authors 
 
-_Enza Colonna, Miloš Duchoslav, Erik Garrison, Silvia Buonaiuto, chatGTP_ 
+_Enza Colonna, Miloš Duchoslav, Erik Garrison, Silvia Buonaiuto, chatGTP, Jose Costa_ 
