@@ -1,6 +1,6 @@
 ## Population (pan)genomics 
 
-Welcome to the practical exercises section of the population genomics section of the [evomics2024](https://evomics.org/2024-workshop-on-genomics/) course. This page is designed to guide you through the basics and provide instructions on how to effectively run the tutorial. You'll find step-by-step guidance to familiarize yourself with the concepts and tools used in the exercises. 
+Welcome to the practical exercises section of the population genomics section of the [evomics2025](https://evomics.org/2025-workshop-on-genomics/) course. This page is designed to guide you through the basics and provide instructions on how to effectively run the tutorial. You'll find step-by-step guidance to familiarize yourself with the concepts and tools used in the exercises. 
 
 
 ## The HPRC data set 
